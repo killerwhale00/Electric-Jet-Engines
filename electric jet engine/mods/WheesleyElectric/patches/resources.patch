@@ -1,0 +1,9 @@
+
+
+@new("ElectricPropellant", true)
+:resources {
+    displayNameKey: "Resource/DisplayName/ElectricCharge";
+    abbreviationKey: "Resource/Abbreviation/EC";
+    +ElectricCharge { unitsPerRecipeUnit: 50000.0; }
+    vfxFuelType: "Electric";
+}
