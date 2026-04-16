@@ -5,4 +5,4 @@ the modded jet engines now require electric power to operate. Makes it possible 
 Each engine can be reverted back to original by turning off the engine specific mod in mod manager
 put suggestions/fixes/balance in ⁠ksp2 modding society discord post [here](https://discord.com/channels/1078696971088433153/1494131492245209128)
 
-![GitHub tag (latest by date)](https://github.com/killerwhale00/electrified-jet-engines/releases/latest)
+[GitHub Release](https://github.com/killerwhale00/electrified-jet-engines/releases/latest)
