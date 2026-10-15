@@ -1,0 +1,18 @@
+Key,Type,Description,English
+Feature/ElectricJetEngines/Wheesley/Name,Text,Feature name,Electric Wheesley
+Feature/ElectricJetEngines/Wheesley/Description,Text,Feature description,Runs the J-33 Wheesley on Electric Charge instead of fuel.
+Feature/ElectricJetEngines/Whittle/Name,Text,Feature name,Electric Whittle
+Feature/ElectricJetEngines/Whittle/Description,Text,Feature description,Runs the JF-200 Whittle on Electric Charge instead of fuel.
+Feature/ElectricJetEngines/Goliath/Name,Text,Feature name,Electric Goliath
+Feature/ElectricJetEngines/Goliath/Description,Text,Feature description,Runs the Goliath turbofan on Electric Charge instead of fuel.
+Feature/ElectricJetEngines/TechTree/Name,Text,Feature name,Electric Engines Tech Tree
+Feature/ElectricJetEngines/TechTree/Description,Text,,Adds electric aviation to the tech tree rather than making it always unlocked.
+ElectricJetEngines/TechNodes/Names/tNode_1v_electric_aviation,Text,,Electric Aviation
+ElectricJetEngines/TechNodes/Descriptions/tNode_1v_electric_aviation,Text,,Electrifies your jet engine - how does this work? Kerbal Sorcery
+ElectricJetEngines/TechNodes/Names/tNode_2v_electric_drones,Text,,Electric Drones
+ElectricJetEngines/TechNodes/Descriptions/tNode_2v_electric_drones,Text,,Electrifies your drone engines - how does this work? Kerbal Sorcery
+ElectricJetEngines/TechNodes/Names/tNode_3v_electric_aviation_03,Text,,Mk3 Electric Aviation
+ElectricJetEngines/TechNodes/Descriptions/tNode_3v_electric_aviation_03,Text,,Electrifies your largest jet engines - how does this work? Kerbal Sorcery
+ElectricEngines/Variants/Propulsion,Text,,Propulsion
+ElectricEngines/Variants/Propulsion/Standard,Text,,Methane
+ElectricEngines/Variants/Propulsion/Electric,Text,,Electric
