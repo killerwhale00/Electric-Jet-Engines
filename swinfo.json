@@ -3,9 +3,9 @@
     "mod_id": "ElectricJetEngines",
     "author": "killerwhale",
     "name": "Electric Jet Engines",
-    "description": "Converts the Wheesley, Whittle, and Goliath turbofans to run on ElectricCharge instead of fuel — making atmospheric flight possible on Duna, Eve, and Jool without burning a drop of propellant. Requires a power source to operate. Each conversion (Wheesley, Whittle, Goliath, tech tree) is a campaign feature you can switch on or off per campaign. Also adds the J-404 Panther and Z-1K rechargeable battery to the Light Aviation tech node alongside the Wheesley, making early-game electric flight possible without 1000 solar panels.",
+    "description": "Converts the Wheesley, Whittle, and Goliath turbofans to run on ElectricCharge instead of fuel — making atmospheric flight possible on Duna, Eve, and Jool without burning a drop of propellant. Requires a power source to operate. Electric mode is a part variant unlocked through new Electric Aviation tech nodes, and each conversion (Wheesley, Whittle, Goliath, tech tree) is a campaign feature you can switch on or off per campaign. The Z-1K rechargeable battery moves into the first Electric Aviation node.",
     "source": "",
-    "version": "2.11.0",
+    "version": "2.12.1",
     "ksp2_version": {
         "min": "0.2.3",
         "max": "*"
